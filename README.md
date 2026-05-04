@@ -1,4 +1,5 @@
 <!-- Trophies -->
+<hr />
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=annilei-inokh-santos&theme=darkhub&no-frame=true&column=7" />
